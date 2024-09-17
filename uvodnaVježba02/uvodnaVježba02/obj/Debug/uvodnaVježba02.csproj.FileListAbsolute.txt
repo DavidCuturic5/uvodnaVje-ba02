@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\uvodnaVježba02\uvodnaVježba02\obj\Debug\uvodnaVježba02.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\source\repos\uvodnaVježba02\uvodnaVježba02\obj\Debug\uvodnaVježba02.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\uvodnaVježba02\uvodnaVježba02\bin\Debug\uvodnaVježba02.exe.config
+C:\Users\Gigabyte\source\repos\uvodnaVježba02\uvodnaVježba02\bin\Debug\uvodnaVježba02.exe
+C:\Users\Gigabyte\source\repos\uvodnaVježba02\uvodnaVježba02\bin\Debug\uvodnaVježba02.pdb
+C:\Users\Gigabyte\source\repos\uvodnaVježba02\uvodnaVježba02\obj\Debug\uvodnaVježba02.exe
+C:\Users\Gigabyte\source\repos\uvodnaVježba02\uvodnaVježba02\obj\Debug\uvodnaVježba02.pdb
